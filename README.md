@@ -1,2 +1,4 @@
 # Trabajos-Universidad
 Proyectos varios de universidad
+
+ESTOS SON SOLO ALGUNOS TRABAJOS EN LOS CUALES HE PODIDO TRABAJAR EN LA UNIVERSIDAD
